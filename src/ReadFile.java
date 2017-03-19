@@ -10,6 +10,7 @@ public class ReadFile {
 
 		BufferedReader br = null;
 		FileReader fr = null;
+		System.out.println("New changes pushed to GitHub");
 
 		try {
 
